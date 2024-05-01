@@ -1,0 +1,15 @@
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\bin\Debug\net6.0\PracticeOops.exe
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\bin\Debug\net6.0\PracticeOops.deps.json
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\bin\Debug\net6.0\PracticeOops.runtimeconfig.json
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\bin\Debug\net6.0\PracticeOops.dll
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\bin\Debug\net6.0\PracticeOops.pdb
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\PracticeOops.csproj.AssemblyReference.cache
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\PracticeOops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\PracticeOops.AssemblyInfoInputs.cache
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\PracticeOops.AssemblyInfo.cs
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\PracticeOops.csproj.CoreCompileInputs.cache
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\PracticeOops.dll
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\refint\PracticeOops.dll
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\PracticeOops.pdb
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\PracticeOops.genruntimeconfig.cache
+C:\Users\pvran\source\repos\PracticeOops\PracticeOops\obj\Debug\net6.0\ref\PracticeOops.dll
