@@ -10,9 +10,7 @@ namespace PracticeOops
     {
         public static void Main(string[] args)
         {
-            HowManyTimes.Main(args);
-            practiceArray.Main(args);
-            CountDuplicateLetters.Main(args);
+            TheStringIsReversed.Main(args);
         }
     }
 }

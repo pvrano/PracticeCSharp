@@ -10,7 +10,7 @@ namespace PracticeOops
     {
         public static void Main(String[] args)
         {
-            String sentence = "this is a repeat type word sentence";
+            String sentence = "this is a repeat type word sentence and I just entered 2346 this is";
 
             Dictionary<char, int> countLetter = countingLetters(sentence);
             Console.WriteLine("Here is the number of time a letter occured");

@@ -16,6 +16,7 @@ namespace PracticeOops
             Console.WriteLine("total number of alphabets in this sentence are " + sum);
             HowManyTimes obj = new HowManyTimes();
             int summ = obj.countEverything(sentence);
+            Console.WriteLine("Total number when counting the spaces then it is " + summ);
             
         }
 
