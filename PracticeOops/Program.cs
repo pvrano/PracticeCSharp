@@ -10,7 +10,7 @@ namespace PracticeOops
     {
         public static void Main(string[] args)
         {
-            TheStringIsReversed.Main(args);
+            BubbleSortProgram.Main(args);
         }
     }
 }
