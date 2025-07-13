@@ -42,6 +42,20 @@ namespace PracticeOops
             return Array.Empty<string>();
         }
 
+        public List<int> printUniqueElements(int[] numbers)
+        {
+            List<int> newList = new List<int>();
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                if (!newList.Contains(numbers[i]))
+                {
+                    newList.Add(numbers[i]);
+                }
+            }
+            return newList;
+            
+        }
+
 
     }
 }
