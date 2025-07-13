@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PracticeOops.csproj",
+        "Action": "Start",
+        "DebugTarget": "PracticeOops"
+      }
+    ]
+  }
+]
